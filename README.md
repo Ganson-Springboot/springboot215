@@ -8,7 +8,6 @@
 
 
 # springboot215基于springboot技术的美食烹饪互动平台的设计与实现
-# 0214springboot基于springboot技术的美食烹饪互动平台的设计与实现
 
 ## 5.1 功能实现
 ### 5.1.1 美食管理
